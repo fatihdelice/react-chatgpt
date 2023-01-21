@@ -2,7 +2,7 @@
 
 ## How to Start?
 
-- Clone this repository `git clone https://github.com/fatihdelice/react-chatgpt.git`
+- Clone this repository: `git clone https://github.com/fatihdelice/react-chatgpt.git`
 - `cd backend`
 - `npm install`
 - change the `apiKey` in `app.js` file
