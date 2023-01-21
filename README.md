@@ -2,7 +2,7 @@
 
 ## How to Start?
 
-- Clone this repository
+- Clone this repository 
 - `cd backend`
 - `npm install`
 - change the `apiKey` in `app.js` file
